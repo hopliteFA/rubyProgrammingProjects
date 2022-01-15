@@ -13,4 +13,3 @@ if user_string[0] == "i" and user_string[1] == "f"
 else 
     puts 'Does not start with if'
 end
-
